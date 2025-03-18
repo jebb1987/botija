@@ -1,0 +1,11 @@
+# Archivos sensibles
+config.json
+.env
+
+# Archivos de entorno
+__pycache__
+.py[cod]
+.log
+
+# Entornos virtuales
+venv
